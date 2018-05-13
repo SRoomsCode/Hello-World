@@ -9,6 +9,6 @@ Just added a clone of my Github repo to local repo... lets's see
 - this is a bullet point if I'm not wrong
 - this is another one
 
-| Cell01 | Cell02 | Cell03 |
-| Cell11 | Cell12 | Cell13 |
-| Cell21 | Cell22 | Cell23 |
+|| Cell01 || Cell02 || Cell03 ||
+|| Cell11 || Cell12 || Cell13 ||
+|| Cell21 || Cell22 || Cell23 ||
